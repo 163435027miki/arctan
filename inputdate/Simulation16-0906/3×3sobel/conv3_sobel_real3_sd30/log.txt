@@ -1,0 +1,12 @@
+Time : 2016/ 9/ 6 - 14:16:30
+Rvector_create=0
+ImputImage=..\bmp\real3\real3_sd30.bmp
+Kernel
+V0   = ..\フィルタ\sobel\sobel0.txt
+V45  = ..\フィルタ\sobel\sobel45.txt
+V90  = ..\フィルタ\sobel\sobel90.txt
+V135 = ..\フィルタ\sobel\sobel135.txt
+V180 = ..\フィルタ\sobel\sobel180.txt
+V225 = ..\フィルタ\sobel\sobel225.txt
+V270 = ..\フィルタ\sobel\sobel270.txt
+V315 = ..\フィルタ\sobel\sobel315.txt

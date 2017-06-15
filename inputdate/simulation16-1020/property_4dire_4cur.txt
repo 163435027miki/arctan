@@ -1,0 +1,7 @@
+240,
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd0
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd10
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd20
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd30
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd40
+..\\inputdate\\simulation16-1020\\conv15_4dire_enza10_4cur\\conv15_4dire_enza10_4cur_sd50

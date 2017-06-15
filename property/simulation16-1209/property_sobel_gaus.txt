@@ -1,0 +1,7 @@
+240,
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd0_gaus
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd10_gaus
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd20_gaus
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd30_gaus
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd40_gaus
+..\\inputdate\\simulation16-1209\\conv3_sobel_enza_sd50_gaus

@@ -1,0 +1,7 @@
+256,
+..\\inputdate\\simulation17-0613\\100k_conv_sd0
+..\\inputdate\\simulation17-0613\\100k_conv_sd10
+..\\inputdate\\simulation17-0613\\100k_conv_sd20
+..\\inputdate\\simulation17-0613\\100k_conv_sd30
+..\\inputdate\\simulation17-0613\\100k_conv_sd40
+..\\inputdate\\simulation17-0613\\100k_conv_sd50
